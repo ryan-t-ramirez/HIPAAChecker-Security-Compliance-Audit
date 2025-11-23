@@ -5,7 +5,7 @@ This repository contains the documentation, testing procedures, and compliance f
 
 ### 📂 Contents
 * **Professional Project.pdf**: The primary executive summary of the project.
-* **Testing Procedure and Instruction.pdf**: Detailed breakdown of the QA methodologies used (Black-box testing, Logic verification).
+* **Testing Procedure and Instruction.pdf**: Detailed breakdown of the QA methodologies used.
 * **HIPAACHECKER-Pitch.pptx**: The stakeholder presentation outlining the product's security posture.
 * **Progress Reports**: Weekly breakdowns of the audit timeline and remediation steps.
 
