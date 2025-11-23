@@ -11,7 +11,7 @@ This repository contains the documentation, testing procedures, and compliance f
 * **3_Stakeholder_Presentation_ProfessionalProject.pptx**: The final presentation outlining the product's security posture and risk assessment.
 
 ### 🔍 Key Findings
-The audit validated the application against **45 CFR Part 160** standards. Below is a summary of the risk assessment performed during the QA phase.
+The audit validated the application against **45 CFR Part 160** standards. Additionally, the automated analysis demonstrated a significant efficiency gain compared to manual auditing methods.
 
 <img width="892" height="238" alt="Screenshot 2025-11-22 at 8 00 15 PM" src="https://github.com/user-attachments/assets/0137f1d4-78d9-4119-aec9-64b1553280eb" />
 
